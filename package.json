@@ -73,7 +73,7 @@
 		"@emotion/styled": "^11.13.0",
 		"@mui/icons-material": "^6.0.2",
 		"@mui/material": "^6.0.2",
-		"@zextras/carbonio-design-system": "^6.0.0",
+		"@zextras/carbonio-design-system": "^7.1.1",
 		"@zextras/carbonio-shell-ui": "^7.0.0",
 		"core-js": "^3.32.0",
 		"date-fns": "^2.30.0",
